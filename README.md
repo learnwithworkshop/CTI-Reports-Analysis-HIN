@@ -1,8 +1,8 @@
-# CTI-Reports-Analysis-HIN
+# CTI Reports Analysis (HINDI) 🛡️🔍
 
-# CTI Reports Analysis (English) 🛡️🔍
+Cyber Threat Intelligence (CTI) Analysis repository mein aapka welcome hai।
 
-Welcome to the **Cyber Threat Intelligence (CTI) Analysis** repository. This project is dedicated to dissecting and analyzing technical reports from top cybersecurity firms (CrowdStrike, Mandiant, SANS, Proofpoint, and others).
+Yeh project top cybersecurity firms jaise CrowdStrike, Mandiant, SANS Institute, Proofpoint aur dusri organizations ke technical reports ko deeply dissect aur analyze karne ke liye dedicated hai।
 
 ## 📋 Table of Contents
 - [Objective](#objective)
@@ -15,15 +15,16 @@ Welcome to the **Cyber Threat Intelligence (CTI) Analysis** repository. This pro
 
 ## 🎯 Objective
 
-The goal is to move beyond just reading reports. This repository breaks down complex vendor reports into actionable intelligence:
+Is project ka main goal sirf reports padhna nahi hai।
 
-- **Core Attack Vectors:** Understanding how breaches originate
-- **Vulnerability Mapping:** Linking incidents to specific CVEs (Common Vulnerabilities and Exposures)
-- **TTPs (Tactics, Techniques, Procedures):** Mapping actor behavior to the MITRE ATT&CK framework
-- **Actionable Advice:** Practical security recommendations for defense teams
-- **IoCs (Indicators of Compromise):** Extracting technical indicators from reports
-- **Threat Actor Profiling:** Understanding adversary motivations and capabilities
+Yeh repository complex vendor reports ko actionable intelligence mein convert karti hai:
 
+Core Attack Vectors: Samajhna ki breaches kaise start hote hain
+Vulnerability Mapping: Incidents ko specific CVEs (Common Vulnerabilities and Exposures) se link karna
+TTPs (Tactics, Techniques, Procedures): Threat actor behavior ko MITRE ATT&CK Framework ke saath map karna
+Actionable Advice: Defense teams ke liye practical security recommendations dena
+IoCs (Indicators of Compromise): Reports se technical indicators extract karna
+Threat Actor Profiling: Attackers ke motives aur capabilities ko samajhna
 ## 📁 Repository Structure
 
 ```
@@ -196,7 +197,9 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 ## 📝 Disclaimer
 
-This repository is for educational and authorized security research purposes only. Always ensure you have proper authorization before conducting any security analysis or testing.
+Yeh repository sirf educational aur authorized security research purposes ke liye hai।
+
+Kisi bhi security analysis ya testing ko conduct karne se pehle hamesha ensure karein ki aapke paas proper authorization aur permission ho।
 
 ## ⭐ Support
 
