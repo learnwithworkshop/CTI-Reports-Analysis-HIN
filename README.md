@@ -1,63 +1,63 @@
-# CTI Reports Analysis (English) 🛡️🔍
+# CTI Reports Analysis (Hinglish) 🛡️🔍
 
-Welcome to the **Cyber Threat Intelligence (CTI) Analysis** repository. This project is dedicated to dissecting and analyzing technical reports from top cybersecurity firms (CrowdStrike, Mandiant, [...])
+**Cyber Threat Intelligence (CTI) Analysis** repository mein aapka swagat hai. Yeh project top cybersecurity firms (CrowdStrike, Mandiant, wagerah) ke technical reports ko analyze aur samajhne ke liye hai.
 
-## 📋 Table of Contents
-- [Objective](#objective)
+## 📋 Vishay-Suchi (Table of Contents)
+- [Lakshya](#lakshya)
 - [Repository Structure](#repository-structure)
-- [Key Features](#key-features)
-- [Report Categories](#report-categories)
-- [How to Use](#how-to-use)
-- [Contributing](#contributing)
+- [Mukhya Features](#mukhya-features)
+- [Report Ke Kategori](#report-ke-kategori)
+- [Kaise Istemaal Karen](#kaise-istemaal-karen)
+- [Yogdan Dena](#yogdan-dena)
 - [License](#license)
 
-## 🎯 Objective
+## 🎯 Lakshya (Objective)
 
-The goal is to move beyond just reading reports. This repository breaks down complex vendor reports into actionable intelligence:
+Sirf reports padh lena kaafi nahi hai. Yeh repository complex vendor reports ko actionable intelligence mein convert karta hai:
 
-- **Core Attack Vectors:** Understanding how breaches originate
-- **Vulnerability Mapping:** Linking incidents to specific CVEs (Common Vulnerabilities and Exposures)
-- **TTPs (Tactics, Techniques, Procedures):** Mapping actor behavior to the MITRE ATT&CK framework
-- **Actionable Advice:** Practical security recommendations for defense teams
-- **IoCs (Indicators of Compromise):** Extracting technical indicators from reports
-- **Threat Actor Profiling:** Understanding adversary motivations and capabilities
+- **Core Attack Vectors:** Samjhiye ki breaches kaise hote hain
+- **Vulnerability Mapping:** Incidents ko specific CVEs (Common Vulnerabilities aur Exposures) se link karna
+- **TTPs (Tactics, Techniques, Procedures):** Attacker ke behavior ko MITRE ATT&CK framework se map karna
+- **Actionable Advice:** Security teams ke liye practical recommendations
+- **IoCs (Indicators of Compromise):** Reports se technical indicators nikalna
+- **Threat Actor Profiling:** Attacker ke motivations aur capabilities samjhna
 
-## 📁 Repository Structure
+## 📁 Repository Ki Banawat (Repository Structure)
 
 ```
-CTI-Reports-Analysis-EN/
+CTI-Reports-Analysis-HIN/
 ├── README.md                                    # Main documentation
-├── CONTRIBUTING.md                              # Contribution guidelines
+├── CONTRIBUTING.md                              # Yogdan ke guidelines
 ├── LICENSE                                      # License information
 │
-├── 📂 Top Global CTI Companies/
+├── 📂 Duniya Ke Top CTI Companies/
 │   ├── 📂 Tier 1 (Nation-State & APT Focused)/
 │   │   ├── README.md
 │   │   ├── 🔴 CrowdStrike Reports/
 │   │   │   ├── Operation Aurora
 │   │   │   ├── Falcon Intelligence Insights
-│   │   │   └── [Additional Reports]
+│   │   │   └── [Aur Reports]
 │   │   ├── 🟠 Mandiant Reports/
 │   │   │   ├── M-Trends Reports
 │   │   │   ├── APT Threat Reports
-│   │   │   └── [Additional Reports]
-│   │   └── 🟡 Other Tier 1 Companies/
+│   │   │   └── [Aur Reports]
+│   │   └── 🟡 Aur Tier 1 Companies/
 │   │       ├── SANS Institute
 │   │       ├── Recorded Future
-│   │       └── [Additional Companies]
+│   │       └── [Aur Companies]
 │   │
 │   ├── 📂 Tier 2 (Malware & Incident Response)/
 │   │   ├── README.md
 │   │   ├── Proofpoint Reports/
 │   │   ├── Sophos Reports/
 │   │   ├── Palo Alto Networks Reports/
-│   │   └── [Additional Companies]
+│   │   └── [Aur Companies]
 │   │
 │   └── 📂 Risk Monitoring Companies/
 │       ├── README.md
 │       ├── Digital Risk Protection (DRP) Reports/
 │       ├── External Attack Surface Management (EASM) Reports/
-│       └── [Additional Services]
+│       └── [Aur Services]
 │
 ├── 📂 Analysis Templates/
 │   ├── Report_Analysis_Template.md
@@ -82,7 +82,7 @@ CTI-Reports-Analysis-EN/
 │
 ├── 📂 IoCs (Indicators of Compromise)/
 │   ├── IP_Addresses.md
-│   ���── Domains.md
+│   ├── Domains.md
 │   ├── File_Hashes.md
 │   └── Email_Indicators.md
 │
@@ -108,23 +108,23 @@ CTI-Reports-Analysis-EN/
     └── Attribution_Indicators.md
 ```
 
-## 🌟 Key Features
+## 🌟 Mukhya Features
 
-✅ **Deep Report Analysis** - Comprehensive breakdowns of major cybersecurity reports
+✅ **Deep Report Analysis** - Major cybersecurity reports ka comprehensive analysis
 
-✅ **MITRE ATT&CK Mapping** - Tactics and techniques mapped to threat actor behaviors
+✅ **MITRE ATT&CK Mapping** - Tactics aur techniques ko threat actor behavior se map karna
 
-✅ **CVE Intelligence** - Vulnerability analysis and exploitation patterns
+✅ **CVE Intelligence** - Vulnerability analysis aur exploitation patterns
 
-✅ **IoC Extraction** - Actionable indicators of compromise from reports
+✅ **IoC Extraction** - Reports se actionable indicators of compromise nikalna
 
-✅ **Threat Actor Profiles** - Detailed information on APT groups and threat actors
+✅ **Threat Actor Profiles** - APT groups aur threat actors ke baare mein detailed information
 
-✅ **Case Studies** - Analysis of real-world breaches and campaigns
+✅ **Case Studies** - Real-world breaches aur campaigns ka analysis
 
-✅ **Quick Reference Guides** - Fast lookup for common TTPs and attack patterns
+✅ **Quick Reference Guides** - Common TTPs aur attack patterns ko jaldi dhundna
 
-## 📊 Report Categories
+## 📊 Report Ke Kategori
 
 ### Tier 1 Companies (Nation-State & APT Focused)
 - **CrowdStrike** - Falcon Intelligence, Threat Intelligence Reports
@@ -142,49 +142,49 @@ CTI-Reports-Analysis-EN/
 - **Digital Risk Protection (DRP)** Companies
 - **External Attack Surface Management (EASM)** Providers
 
-## 🚀 How to Use
+## 🚀 Kaise Istemaal Karen
 
-### For Security Professionals
-1. Navigate to the specific company/report folder
-2. Read the analysis document
-3. Check the TTP mapping to MITRE ATT&CK
-4. Review extracted IoCs for your environment
-5. Apply recommendations to your security posture
+### Security Professionals Ke Liye
+1. Specific company/report folder mein jaiye
+2. Analysis document ko padh liye
+3. TTP mapping ko MITRE ATT&CK ke saath check kariye
+4. Extracted IoCs ko apne environment mein review kariye
+5. Recommendations ko apni security posture mein lagaiye
 
-### For Researchers
-1. Use case studies for research references
-2. Analyze threat actor profiles
-3. Cross-reference multiple reports
-4. Contribute new findings
+### Researchers Ke Liye
+1. Case studies ko research references ke taur par istemaal kariye
+2. Threat actor profiles ko analyze kariye
+3. Multiple reports ko cross-reference kariye
+4. Naye findings ko contribute kariye
 
-### For Students/Learners
-1. Start with quick reference guides
-2. Read glossary terms
-3. Study case studies and examples
-4. Use templates for your own analysis
+### Students/Learners Ke Liye
+1. Quick reference guides se shuru kariye
+2. Glossary terms ko padh liye
+3. Case studies aur examples se seekhiye
+4. Apne analysis ke liye templates istemaal kariye
 
-## 📚 Getting Started
+## 📚 Shuruwat Kaise Karen
 
 ```bash
-# Clone the repository
-git clone https://github.com/learnwithworkshop/CTI-Reports-Analysis-EN.git
+# Repository ko clone kariye
+git clone https://github.com/learnwithworkshop/CTI-Reports-Analysis-HIN.git
 
-# Navigate to the repo
-cd CTI-Reports-Analysis-EN
+# Repo mein jaiye
+cd CTI-Reports-Analysis-HIN
 
-# Explore different report categories
-ls -la "Top Global CTI Companies/"
+# Alag alag report categories explore kariye
+ls -la "Duniya Ke Top CTI Companies/"
 ```
 
-## 🤝 Contributing
+## 🤝 Yogdan Dena (Contributing)
 
-Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on:
-- Adding new report analyses
-- Submitting corrections or updates
-- Suggesting new sections or improvements
-- Following the analysis template format
+Yogdan swagat hai! [CONTRIBUTING.md](CONTRIBUTING.md) ko dekh liye guidelines ke liye:
+- Naye report analyses add karna
+- Corrections ya updates submit karna
+- Naye sections ya improvements ka suggestion dena
+- Analysis template format ko follow karna
 
-## 📖 Key Resources
+## 📖 Mukhya Resources
 
 - [MITRE ATT&CK Framework](https://attack.mitre.org/)
 - [NIST Cybersecurity Framework](https://www.nist.gov/cyberframework)
@@ -194,24 +194,24 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 ## 📝 Disclaimer
 
-This repository is for educational and authorized security research purposes only. Always ensure you have proper authorization before conducting any security analysis or testing.
+Yeh repository sirf educational aur authorized security research ke liye hai. Hamesha ensure kariye ki aapke paas proper authorization hai security analysis ya testing karne se pehle.
 
 ## ⭐ Support
 
-If you find this repository helpful, please:
-- ⭐ Star this repository
-- 🔄 Share it with your network
-- 💬 Leave feedback and suggestions
-- 🐛 Report any issues or inaccuracies
+Agar aapko yeh repository helpful laga, toh please:
+- ⭐ Is repository ko star kariye
+- 🔄 Apne network mein share kariye
+- 💬 Feedback aur suggestions dijiye
+- 🐛 Kisi bhi issue ya inaccuracy ki report kariye
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Yeh project MIT License ke under licensed hai - [LICENSE](LICENSE) file ko dekh liye details ke liye.
 
 ---
 
-**Last Updated:** May 16, 2026
+**Last Updated:** May 18, 2026
 
 **Maintained by:** [@learnwithworkshop](https://github.com/learnwithworkshop)
 
-**Questions or Suggestions?** Open an issue or start a discussion!
+**Sawal Ya Suggestions?** Ek issue open kariye ya discussion shuru kariye!
