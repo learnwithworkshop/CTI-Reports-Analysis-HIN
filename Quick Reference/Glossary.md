@@ -1,4 +1,4 @@
-# CTI Glossary - Mukhya Shabd Aur Paribhashan (मुख्य शब्द और परिभाषाएं)
+# CTI Glossary - Mukhya Shabd Aur Paribhashan
 
 ## A
 
