@@ -1,3 +1,1 @@
-# Tier 2
-
-This folder contains Tier 2 CTI companies.
+Specializing in Dark Web monitoring, fraud intelligence, and the tracking of cybercriminal activities.
