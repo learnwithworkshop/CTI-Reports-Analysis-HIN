@@ -1,1 +1,1 @@
-Tracking nation-state adversaries and analyzing published APT reports.
+Focusing on in-depth malware research and threat detection.
