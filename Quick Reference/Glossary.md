@@ -1,96 +1,96 @@
-# CTI Glossary - Key Terms & Definitions
+# CTI Glossary - Mukhya Shabd Aur Paribhashan (मुख्य शब्द और परिभाषाएं)
 
 ## A
 
-**APT (Advanced Persistent Threat)**
-A sophisticated cyber attack where an attacker gains and maintains unauthorized access to a network for an extended period.
+**APT (Advanced Persistent Threat - Avansit Sthit Khatara)**
+Ek sophisticated cyber attack jisme attacker network mein unauthorized access prata hai aur lambi avadhi tak maintain karta hai.
 
 **Attribution**
-The process of determining the origin or source of a cyber attack or threat actor.
+Cyber attack ya threat actor ke origin ya source ko nikalne ki prakriya.
 
-**Attack Surface**
-The sum of all possible points where an unauthorized user could try to access a system.
+**Attack Surface (Aakraman Ki Satah)**
+Sabhi possible points ka yog jahan unauthorized user system ko access karne ki koshish kar sakte hain.
 
 ## C
 
 **CVE (Common Vulnerabilities and Exposures)**
-A standardized identifier for publicly known information security vulnerabilities.
+Publicly known information security vulnerabilities ke liye standardized identifier.
 
-**C2/C&C (Command and Control)**
-Servers used by attackers to communicate with and control compromised systems.
+**C2/C&C (Command and Control - Nirdesh Aur Niyantran)**
+Servers jinhe attackers compromised systems ke sath communicate aur control karne ke liye use karte hain.
 
 **Cyber Kill Chain**
-A framework for identifying and preventing cyber intrusions, developed by Lockheed Martin.
+Cyber intrusions ko identify aur prevent karne ke liye ek framework, jise Lockheed Martin ne develop kiya tha.
 
 ## D
 
-**DNS (Domain Name System)**
-Internet protocol for translating domain names to IP addresses.
+**DNS (Domain Name System - Praarambhik Naam Paddhati)**
+Internet protocol jo domain names ko IP addresses mein translate karta hai.
 
-**DDoS (Distributed Denial of Service)**
-Cyber attack using multiple sources to flood a target with traffic.
+**DDoS (Distributed Denial of Service - Vitrit Sewa Nisedhit Aakraman)**
+Cyber attack jisme multiple sources target ko traffic se flood karte hain.
 
 ## E
 
-**Exploit**
-A method or code used to take advantage of a vulnerability.
+**Exploit (Dushprayog)**
+Vulnerability ka fayda uthane ke liye use ki jane wali vidhi ya code.
 
-**EASM (External Attack Surface Management)**
-Technology and practices for discovering and managing external security risks.
+**EASM (External Attack Surface Management - Bahya Aakraman Satah Prabandhna)**
+External security risks ko discover aur manage karne ke liye technology aur practices.
 
 ## I
 
-**IoC (Indicator of Compromise)**
-Artifacts that indicate a system may have been breached (IP, domain, file hash, etc.).
+**IoC (Indicator of Compromise - Samjhota Ke Sanket)**
+Artifacts jo indicate karte hain ki system breach ho gaya hai (IP, domain, file hash, etc.).
 
-**Intelligence-Driven Incident Response**
-Using threat intelligence to improve response to security incidents.
+**Intelligence-Driven Incident Response (Buddimaan Aadharit Ghatna Pratikra)**
+Security incidents ke response ko improve karne ke liye threat intelligence ka upyog.
 
 ## L
 
-**Lateral Movement**
-Technique for an attacker to move deeper into a network after initial access.
+**Lateral Movement (Samkaleen Gati)**
+Attack ke baad attacker network mein gehrai mein jane ki technique.
 
 ## M
 
-**Malware**
-Malicious software designed to harm or exploit a system.
+**Malware (Kharaab Software)**
+Malicious software jo system ko nuksan pahunchane ya use karne ke liye design kiya gaya hai.
 
 **MITRE ATT&CK**
-A globally-accessible knowledge base of adversary tactics and techniques.
+Adversary tactics aur techniques ke baare mein globally-accessible knowledge base.
 
 ## P
 
-**Persistence**
-An attacker's techniques to maintain access to a compromised system.
+**Persistence (Shaashvata / Sthaaye Anupastithi)**
+Compromised system mein access maintain karne ke liye attacker ki techniques.
 
-**Phishing**
-Social engineering attack using fraudulent communications to trick users.
+**Phishing (Jholi Marna)**
+Social engineering attack jo fraudulent communications ke through users ko dhokha dene ke liye use hota hai.
 
 ## S
 
-**Supply Chain Attack**
-Attack targeting vulnerabilities in a supplier's systems to compromise customers.
+**Supply Chain Attack (Aapurti Shrinkhal Aakraman)**
+Supplier ke systems mein vulnerabilities ko target karke customers ko compromise karne wala attack.
 
 **SIGMA**
-Generic and open signature format for detection rules.
+Detection rules ke liye generic aur open signature format.
 
 ## T
 
-**TTP (Tactics, Techniques, and Procedures)**
-The behavior patterns of threat actors.
+**TTP (Tactics, Techniques, and Procedures - Neeti, Paddhati Aur Taknik)**
+Threat actors ke behavior patterns.
 
-**Threat Actor**
-An individual, group, or organization engaged in cyber attacks.
+**Threat Actor (Khatara Karta)**
+Koi vyakti, samuh, ya organization jo cyber attacks mein hissa leta hai.
 
-**Threat Intelligence**
-Evidence-based knowledge about cyber threats and threat actors.
+**Threat Intelligence (Khatara Buddimatta / Suraksha Jankari)**
+Cyber threats aur threat actors ke baare mein evidence-based knowledge.
 
 ## Z
 
 **Zero-Day**
-A previously unknown vulnerability being exploited before a patch is available.
+Ek pehle se anirodh vulnerability jo patch available hone se pehle use ki ja rahi ho.
 
 ---
 
-**For more information, visit:** [MITRE ATT&CK](https://attack.mitre.org/)
+**Zyada jankari ke liye, visit karein:** [MITRE ATT&CK](https://attack.mitre.org/)
