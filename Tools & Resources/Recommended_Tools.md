@@ -53,19 +53,19 @@ Commercial se compare karein toh yeh cost-effective hain lekin expert analysis, 
 
 ### Malware Analysis
 1. Open-Source / Free Tools
-   -**Ghidra** - NSA ka tool, disassembly, decompilation, scripting Deep reverse engineering
-   -**x64dbg** - Windows debugger, breakpoints, scripting(Manual dynamic analysis)
-   -**Cuckoo Sandbox** - Behaviour monitoring, API calls, network traffic(Automated dynamic analysis)
-   -**CAPE Sandbox** - Unpacking focus, especially ransomware(Advanced unpacking)
-   -**Radare2 (r2)** - Multi-architecture, powerful CLI(Advanced static + dynamic)
-   -**YARA** - Custom rules for malware detection/classification(IOC & family identification|)
-   -**Volatility 3** - RAM dump analysis(Post-infection analysis)
-   -**PeStudio** - PE header, imports, strings, anomalies(Quick Windows executable check)
-   -**Process Monitor (ProcMon)** - Real-time file/registry/process activity(Behaviour tracking)
-   -**Wireshark** - Packet capture & analysis(Network behaviour)
-   -**ClamAV** - Signature-based detection(Bulk scanning)
-   -**Detect It Easy (DIE)** - Identifies packers & compilers(Initial static triage)
-   -**REMnux** - Pre-installed malware analysis tools(Full analysis environment)
+- **Ghidra** - NSA ka tool, disassembly, decompilation, scripting Deep reverse engineering
+- **x64dbg** - Windows debugger, breakpoints, scripting(Manual dynamic analysis)
+- **Cuckoo Sandbox** - Behaviour monitoring, API calls, network traffic(Automated dynamic analysis)
+- **CAPE Sandbox** - Unpacking focus, especially ransomware(Advanced unpacking)
+- **Radare2 (r2)** - Multi-architecture, powerful CLI(Advanced static + dynamic)
+- **YARA** - Custom rules for malware detection/classification(IOC & family identification|)
+- **Volatility 3** - RAM dump analysis(Post-infection analysis)
+- **PeStudio** - PE header, imports, strings, anomalies(Quick Windows executable check)
+- **Process Monitor (ProcMon)** - Real-time file/registry/process activity(Behaviour tracking)
+- **Wireshark** - Packet capture & analysis(Network behaviour)
+- **ClamAV** - Signature-based detection(Bulk scanning)
+- **Detect It Easy (DIE)** - Identifies packers & compilers(Initial static triage)
+- **REMnux** - Pre-installed malware analysis tools(Full analysis environment)
 
   ## Anya Notable Open-Source:
   -**Binary Ninja** - Community edition limited
