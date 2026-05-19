@@ -1,29 +1,33 @@
-# Contributing to CTI Reports Analysis
+# CTI Reports Analysis mein Contribute Karna
 
-Thank you for your interest in contributing! Here's how you can help:
+Shukriya ki aap contribute karna chahte ho! Yaha baataya gaya  hai ki aap kaise madad kar sakte ho:
 
-## Guidelines
+## Guidelines (Niyam)
 
-1. **Use the templates** - Follow the analysis templates for consistency
-2. **Be accurate** - Double-check all information and links
-3. **Add references** - Link to original reports and sources
-4. **Clear language** - Write clearly for both beginners and experts
-5. **Proper formatting** - Follow the existing markdown structure
+1. **Templates ka istemaal karo** - Consistency ke liye analysis templates ko follow karo
+2. **Satik raho** - Sabhi information aur links ko dobara check karo
+3. **References add karo** - Original reports aur sources ke links do
+4. **Saaf language** - Is tarah likho ki beginners aur experts dono samjh jaen
+5. **Sahi formatting** - Existing markdown structure ko follow karo
 
-## How to Contribute
+## Contribute Karne ka Tareeka
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/new-analysis`)
-3. Add your content
-4. Commit with clear messages
-5. Push to your fork
-6. Open a Pull Request
+1. Repository ko fork karo (apne account par copy banao)
+2. Feature branch banao (`git checkout -b feature/new-analysis`)
+3. Apna content add karo
+4. Clear messages ke saath commit karo
+5. Apne fork par push karo
+6. Pull Request (PR) kholo
 
-## Reporting Issues
+## Issues Report Karna
 
-If you find outdated information or errors, please open an issue with:
-- What's incorrect
-- What it should be
-- Supporting evidence/sources
+Agar koi purani ya galat information mile to issue kholo aur batao:
+- Kya galat hai
+- Sahi kya hona chahiye
+- Koi supporting evidence ya sources do
 
-Thank you for making this better!
+Shukriya! Is project ko behtar banane ke liye! 🙏
+
+---
+
+**Simple Summary**: Fork karo → Branch banao → Apna kaam karo → Commit karo → PR bhejo. Agar koi mistake ho to issue report karo. Yahi process hai! ✅
