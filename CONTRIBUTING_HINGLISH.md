@@ -1,6 +1,6 @@
 # CTI Reports Analysis mein Contribute Karna
 
-Shukriya ki aap contribute karna chahte ho! Yaha bataया गया hai ki aap kaise madad kar sakte ho:
+Shukriya ki aap contribute karna chahte ho! Yaha baataya gaya  hai ki aap kaise madad kar sakte ho:
 
 ## Guidelines (Niyam)
 
